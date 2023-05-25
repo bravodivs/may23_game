@@ -1,0 +1,32 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: burlywood;
+}
+.form-class{
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+}
+label, input{
+    font-size: large;
+    height: 20px;
+    margin: 2px 0;
+}
+input[type=submit]{
+    background-color: aquamarine;
+    width: 80px;
+    height: max-content;
+}
+.board{
+    text-align: center;
+}
+.main-board{
+    font-size: 40px;
+    background-color: black;
+    color: white;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+
+}
